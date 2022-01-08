@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "teste",
+      "price": "number"
+    },
+    {
+      "nome": "refrigerante coca-cola",
+      "price": 1.59,
+      "id": 2
+    },
+    {
+      "nome": "refrigerante coca-cola",
+      "price": 1.59,
+      "id": 3
+    }
+  ]
+}
